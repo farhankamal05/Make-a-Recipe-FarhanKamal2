@@ -1,0 +1,45 @@
+/* Insert any CSS code below here */
+
+body{
+  text-align: center;
+  font-family: 'Onest', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+img{
+  border-radius: 12px;
+}
+
+.HeaderMain{
+  text-align: right;
+}
+
+.HeadingImage {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  width: 50%;
+  width: 90px;
+  height: 90px;
+}
+
+.HeaderMain, h1, h2, h3, h4, h5, h6{
+  margin: 1px;
+  color: #322e87;
+}
+
+.NBoxSec{
+  border: 1px solid black;
+  margin: 20px;
+  width: 280px;
+  padding: 0.5rem;
+  color: black;
+}
+
+table{
+  width: 100%;
+}
+
+.thR{
+  text-align: right;
+}
